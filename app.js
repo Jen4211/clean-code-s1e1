@@ -4,7 +4,7 @@
 //Problem: User interaction does not provide the correct results.
 //Solution: Add interactivity so the user can manage daily tasks.
 //Break things down into smaller steps and take each step at a time.
-
+alert("если нужно вот ссыка на репозиторий https://github.com/Jen4211/clean-code-s1e1/tree/clean-code-s1e1")
 
 // Event handling, user interaction is what starts the code execution.
 
